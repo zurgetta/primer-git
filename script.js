@@ -17,8 +17,8 @@ const tasks = [
     },
     {
         id: 3,
-        title: "Llamar al dentista",
-        description: "Pedir cita para la revisión anual. Preferiblemente para un martes por la tarde.",
+        title: "Llamar a Pedro",
+        description: "Pedir cita con el piedro",
         status: "pendiente"
     },
     {
